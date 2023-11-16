@@ -5,7 +5,7 @@ cube_list = [x ** 3 for x in range(100, 10000)  # 1-е задание
 print(cube_list)
 
 
-#################
+##################3
 def program():  # 2-е задание
     first_list = []
     second_list = []
